@@ -1,2 +1,2 @@
 # projectEulerQuestions
-Project euler solutions
+Project euler solutions. Nice 
